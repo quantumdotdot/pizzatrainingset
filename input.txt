@@ -1,0 +1,293 @@
+Margherita:
+Tomatoes, Mozzarella Cheese and Basil, Which Imitates the Colors of the Italian Flag.
+
+Marinara:
+Oregano, Anchovies and Lots of Garlic.
+
+Alla Napoletana (Napoli):
+Tomato Sauce, Mozzarella and Anchovies.
+
+Ai Quattro Formagi:
+Four Cheese Combination Using Fresh Mozzarella and Three Local Cheeses Such as Gorgonzola, Ricotta and Parmigiano-reggiano.
+
+Rustica:
+Marinated Mushrooms, Onions or Artichokes.
+
+Romana:
+Tomato, Mozzarella, Capperi and Anchovy.
+
+Quattro Formaggi:
+Four Cheese. A White with Fresh Mozzarella, Fontina, Mozzarella, Parmesan and a delicious garlic sauce.
+
+Vegetariana:
+Spinach in Ricotta, Mushrooms, Fresh Tomatoes, Parmesan and Mozzarella Cheeses. No sauce.
+
+Greek:
+Seasoned Chicken, Mozzarella Cheese, Red Onions, Fresh Tomatoes, Black Olives and Feta Cheese served with garlic sauce.
+
+Gina:
+Fresh Tomato, Basil Pesto, Fresh Mozzarella and Mozzarella Cheese.
+
+Smoked Chicken:
+Chicken Breast with Red Onions, Barbecue Sauce, Mozzarella and Fontina Cheeses.
+
+Hawaiian:
+Ham, Pineapple and Mozzarella Cheese.
+
+Alfresco:
+Marinated Sliced Roma Tomatoes, Garlic, Basil and Fresh Homemade Mozzarella with a Garlic Sauce.
+
+Chicken Pesto:
+Grilled Chicken, Artichoke Hearts, Mushrooms, Mozzarella and Feta Cheeses Brushed with Basil Pesto.
+
+Puttanesca:
+Artichoke Hearts, Black Olives, Roasted Red Peppers and Capers with Mozzarella and and Tomato Sauce.
+
+Meat Lover's:
+Pepperoni, Ham, Ground Beef, Bacon, Italian Sausage and Mozzarella Cheese.
+
+Portobello:
+Grilled Portobello Mushrooms, Spinach in Ricotta, Red Onion, Tomato Sauce and Mozzarella.
+
+Meat Eater:
+Pepperoni, Crumbled Meatballs, Red Onion, Mozzarella, Red Sauce
+
+Art Lover:
+Artichokes, Mozzarella, Ricotta, Chopped Garlic, Red Sauce Dollops
+
+Green Stripe:
+Pesto Drizzle Over Grilled Chicken, Roasted Red Peppers, Chopped Garlic, Mozzarella, Arugula
+
+Red Vine:
+Ovalini Mozzarella, Cherry Tomatoes, Parmesan, Basil, Red Sauce, Olive Oil Drizzle
+
+Veg Out:
+Zucchini, Mushrooms, Red Onion, Mozzarella, Gorgonzola, Red Sauce Dollops
+
+Link In:
+Italian Sausage, Roasted Red Peppers, Sauteed Onions, Mozzarella, Red Sauce
+
+White Top:
+White Cream Sauce with Mozzarella, Applewood Bacon, Chopped Garlic, Oregano, Arugula
+
+Bbq Chicken:
+Grilled Chicken, Mozzarella, Red Onion, Banana Peppers, Gorgonzola, Bbq Sauce Drizzle
+
+Simple Pie:
+Mozzarella, Parmesan, Red Sauce
+
+Pepperoni Pie:
+Our Tomato Sauce, Mozz, Lotsa Pepperoni, Fresh Oregano
+
+Sausage & Peppers Pie:
+Our Tomato Sauce, Mozz, Homemade Italian Sausage, Oven Roasted Peppers, Fennel Seeds, Fresh Basil
+
+Colletti's Nortorious Bbq Pie:
+Slow Roasted Pulled Pork with Collettis Award Winning Bbq Sauce, Cheddar & Crispy Onions
+
+Forest Shroomin Pie:
+Wild Forest Mushrooms, Truffles, Mozz, Fresh Thyme
+
+White Pie:
+Todays Ricotta, Fontina, Parmesan, Mozz, Roasted Garlic, Sea Salt, Olive Oil, Fresh Italian Parsley
+
+Spinach & Artichoke Pie:
+Bechamel, Sauteed Spinach and Roasted Chokes, Aged Provolone, Parmesan Cheese
+
+Fresh Buffalo Mozz & Roasted Tomato Pie:
+Fresh Mozz, Oven Roasted Tomatoes, Our Tomato Sauce, Fresh Basil, Extra Virgin Olive Oil
+
+Buffalo Chicken Pie:
+Spicy Boneless Chicken Wings, Creamy Blue Cheese, Mozz, Miguels Hot Sauce
+
+Gnarlic:
+Garlic Ricotta, Mozzarella, Grilled Onion, Pesto, Garlic Sauce, Parmesan
+
+Moonstruck:
+Mushroom Truffle, Garlic Ricotta, Mozzarella, Mushroom, Grilled Onion, Goat Cheese, Fig Balsamic
+
+Farmer's Daughter:
+Spicy Tomato, Spinach, Mozzarella, Italian Sausage, Egg, Parmesan, Red Pepper Chili Oil
+
+Pineapple Jack:
+Classic Tomato, Mozzarella, Salami, Pineapple, Pickled Red Onion, Parmesan, Cherry Bomb Bbq
+
+Maverick:
+Classic Tomato, Mozzarella, Salami, Pepperoni, Italian Sausage, Pesto, Parmesan
+
+Salad:
+Olive Oil, Romaine, Cucumber, Tomato, Shredded Mozzarella, Pickled Red Onion, Ranch
+
+Meaty Legend:
+Pepperoni, Italian Sausage, Canadian Bacon, Bacon
+
+Chicago Fire:
+Hot & Spicy Patty-style Sausage, Fire-roasted Red Peppers, Red Onions
+
+Bbq Brisket:
+Bbq Beef Brisket, Caramelized Onions, Roasted Sweet Peppers, Crispy Onion Straws
+
+Jalapeño Blue:
+Bacon, Blue Cheese, Italian Sausage, Blue Cheese & Bacon Stuffed Jalapeños
+
+Supreme:
+Pepperoni or Italian Sausage, Onions, Green Peppers, Mushrooms
+
+Chi-talian Stallion:
+Italian Beef, Roasted Sweet Peppers, Giardiniera
+
+Spinach Margherita:
+Spinach, Cherry Tomatoes, Fresh Mozzarella, Basil 
+
+Eat Your Veggies:
+Zucchini, Red Onion, Roasted Eggplant, Mushroom, Basil
+
+Diavola:
+Spicy Pepperoni, Mozzarella, Basil, White Truffle Oil
+
+Zio Gino:
+Italian Sausage, Caramelized Onions, Roasted Sweet Peppers
+
+Buffalo Chicken:
+Spicy Buffalo Sauce, Blue Cheese, Roasted Buffalo Chicken (No Sauce)
+
+Artichoke:
+Parmesan, Mozzarella, Shaved Artichoke, Garlic, Lemon (No Sauce)
+
+Tie Dye
+Fresh Mozzarella, Tomato Sauce, Vodka Sauce, Pesto Sauce
+
+Marinara:
+Tomato Sauce, Oregano, Fresh Garlic, Basil, Extra Virgin Olive Oil (Ve)
+
+Padrino:
+Tomato Sauce, Caciocavallo Ragusano, Sopressata, Gaeta Olives, Basil, Pecorino Romano, Extra Virgin Olive Oil
+
+Pomodoro:
+Tomato Sauce, Grana, Basil, Extra Virgin Olive Oil
+
+Capricciosa:
+Tomato Sauce, Artichokes,assorted Mushrooms, Italian Cooked Ham, Fresh Mozzarella, Grana, Basil, Extra Virgin Olive Oil
+
+Margherita:
+Tomato Sauce, Fresh Mozzarella, Grana, Basil, Extra Virgin Olive Oil
+
+Diavola:
+Tomato Sauce, Fresh Mozzarella, Hot Sopressata, Basil, Extra Virgin Olive Oil
+
+Regina Margherita:
+Tomato Sauce, Grape Tomatoes, Imported Buffalo Mozzarella, Basil, Extra Virgin Olive Oil
+
+Keste:
+Tomato Sauce, Imported Buffalo Mozzarella, Prosciutto Di Parma, Arugula,pecorino Gran Cru, Basil, Extra Virgin Olive Oil
+
+Marinara Keste:
+Tomato Sauce, Cherry Tomatoes, Oregano, Fresh Garlic, Grana, Basil, Extra Virgin Olive Oil
+
+Vegetariana:
+Tomato Sauce, Fresh Mozzarella, Zucchini, Eggplant, Artichokes, Mushrooms, Grape Tomatoes, Basil, Extra Virgin Olive Oil
+
+Ricotta:
+Tomato Sauce, Fresh Mozzarella,fresh Ricotta, Grana, Basil, Extra Virgin Olive Oil
+
+Vegana:
+Tomato Sauce, Zucchini, Eggplant, Artichokes, Mushrooms, Grape Tomatoes
+
+Salsiccia e Friarielli:
+Smoked Buffalo Mozzarella, Italian Rapini, Sausage, Extra Virgin Olive Oil
+
+Prosciutto e Arugula:
+Fresh Mozzarella, Prosciutto Di Parma, Arugula, Grana, Basil, Extra Virgin Olive Oil
+
+Bianca with Arugula:
+Fresh Mozzarella, Arugula, Grana, Extra Virgin Olive Oil
+
+Norma:
+Grape Tomatoes, Fresh Mozzarella, Eggplant, Grana, Basil, Extra Virgin Olive Oil
+
+Sorrentina:
+Imported Smoked Buffalo Mozzarella, Sliced Lemons, Basil
+
+Macellaio (the Butcher):
+Tomato Sauce, Fresh Mozzarella, Sausage, Porchetta, Salami Crespona, Prosciutto Di Parma, Parmigiano Reggiano
+
+Margherita Doc:
+Neapolitan Buffalo Mozzarella, Basil, Olive Oil
+
+Classica Doc:
+Fresh Mozzarella, Basil, Olive Oil
+
+Prosciutto Arugula:
+Prosciutto​ Di Parma (Cured Uncooked Ham), Organic Baby Arugula, Fresh Mozzarella, Parmesan
+
+Chorizo:
+Spicy Spanish Chorizo Sausage, Thinly-shaved Red Onion, Roasted Red Pepper and Fresh Mozzarella
+
+Capricciosa:
+Sautéed Mushrooms, Marinated Artichokes, Prosciutto Cotto (Ham) & Fresh Mozzarella
+
+Sausage & Onion:
+Our own Sausage, Sautéed Onions & Provola (Fresh Smoked Mozzarella)
+
+Eggplant & Red Pepper:
+Grilled Eggplant, Roasted Red Peppers, Provola (Fresh Smoked Mozzarella)
+
+Ham & Mushroom:
+Prosciutto Cotto (Ham), Sautéed Mushrooms, Fresh Mozzarella
+
+Meatball:
+Homemade​ Angus Beef Meatballs, Ricotta, Mozzarella, Basil and Garlic
+
+Diavola Pupatella:
+Spicy Salami, Fresh Mozzarella, Basil
+
+Tomato Artichoke:
+Garlic-roasted Tomatoes, Marinated Artichokes & Fresh Mozzarella
+
+Calabrese:
+Anchovy, Kalamata Olives, Basil & Fresh Mozzarella
+
+Pepperoni:
+Tomato​ Sauce, Fresh Mozzarella, Beef Pepperoni
+
+Filetti Doc:
+No Sauce, Sweet Cherry Tomatoes, Buffalo Mozzarella, Basil, Olive Oil, Garlic
+
+Spinach:
+Italian Cream, Spinach, Roasted Red Pepper, Pine Nuts & Feta
+
+Mushroom:
+Italian​ Cream, Sautéed Mushrooms, Garlic, Brie Cheese and Truffle Oil
+
+Mimosa:
+Italian Cream, Roasted Corn, Prosciutto Cotto (Ham) & Fresh Mozzarella
+
+Burrata:
+No Sauce, Burrata (Extra Creamy Buffalo Mozzarella), Cherry Tomatoes, Pine Nuts, Basil
+
+Buffala Bianca:
+Buffalo Mozzarella, Italian Cream, Basil and Prosciutto Di Parma
+
+Pesto:
+House Made Pesto, Walnuts, Fresh and Smoked Mozzarella
+
+Matchbox Meat:
+Pepperoni, Spicy Italian Sausage, Crispy Bacon, Zesty Tomato Sauce, Mozzarella	
+
+Sausage + Onion:
+Roasted Red Peppers, Zesty Tomato Sauce, Mozzarella
+
+Fire + Smoke:
+Fire-roasted Red Peppers, Spanish Onions, Chipotle Pepper Tomato Sauce, Garlic Purée, Smoked Gouda, Fresh Basil 
+
+Prosciutto White:
+Kalamata Olives, Fresh Garlic Purée, Ricotta, Mozzarella, Extra Virgin Olive Oil	
+
+Q Special:
+Herb-roasted Chicken, Portabella Mushrooms, Roasted Red Peppers, Zesty Tomato Sauce, Mozzarella
+
+Spicy Meatball:
+House-made Spicy Meatballs, Crispy Bacon, Crushed Red Pepper, Fresh Garlic Purée, Zesty Tomato Sauce, Mozzarella	
+
+Chicken Pesto:
+Herb-roasted Chicken, House-made Pesto Sauce, Mozzarella
